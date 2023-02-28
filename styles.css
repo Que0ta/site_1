@@ -10,6 +10,13 @@ header img {
 header{
     background-color: #A069D6;
 }
+
+header a {
+    padding-top: 40px;
+}
+
+
+
 p{
     text-align: center;
     font-size: 45px;
