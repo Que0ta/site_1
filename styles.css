@@ -9,10 +9,13 @@ header img {
 }
 header{
     background-color: #A069D6;
+    height: 100px;
+    padding: 10px;
 }
 
 header a {
-    padding-top: 40px;
+    font-size: 25px;
+    padding-left: 10px;
 }
 
 
